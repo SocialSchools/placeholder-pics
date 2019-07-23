@@ -1,1 +1,2 @@
-from placeholder import PlaceholderPic
+from __future__ import absolute_import
+from placeholder_pics.placeholder import PlaceholderPic

@@ -1,3 +1,4 @@
+from __future__ import absolute_import
 import pkg_resources
 import random
 from PIL import Image, ImageFont, ImageDraw
